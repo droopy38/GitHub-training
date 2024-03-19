@@ -1,4 +1,4 @@
-name: HitHub Demo
+name: GitHub Demo
 on:
   push:
     branches: [ main ]
